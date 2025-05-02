@@ -1,0 +1,2 @@
+g++ ram_monitor_live.cpp -o ram_monitor_live
+./ram_monitor_live
